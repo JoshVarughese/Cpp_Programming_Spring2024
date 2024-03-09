@@ -13,7 +13,7 @@ int main() {
 
     cout << "The Number Guessing Game!\n";
     cout << "Pick a Number Between 1 - 100 \n";
-    cout << "\n"; // Seperation between the title & instruction and the "Enter your guess" input
+    cout << "\n"; // Seperation between the title/instruction and the "Enter your guess" input
 
     while (true) {
         cout << "Enter your guess: ";
