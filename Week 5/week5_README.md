@@ -6,12 +6,12 @@ The hotel management system program implemented in C++ allows users to perform t
 
 • Adding and Removing Guests in Program & Exiting Program: 
 
-![1st Screenshot of Hotel Management Program](screenshots/week5_output_1.JPG)
+![1st Screenshot of Hotel Management Program](Screenshots/week5_output_1.JPG)
 
 • Adding Another Guest to the Same Room and Adding Guest to an Invalid Room:
 
-![2nd Screenshot of Hotel Management Program](screenshots/week5_output_2.JPG)
+![2nd Screenshot of Hotel Management Program](Screenshots/week5_output_2.JPG)
 
 • Remove a Guest from an Empty Room and Choosing Menu Options That Haven't Been Completed: 
 
-![1st Screenshot of Hotel Management Program](screenshots/week5_output_1.JPG)
+![1st Screenshot of Hotel Management Program](Screenshots/week5_output_1.JPG)
