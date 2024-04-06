@@ -1,4 +1,4 @@
-Unit 4 Assignment 1 - Objects, Classes, and Inheritance: C++ Number Guessing Game Part 3
+## Unit 4 Assignment 1 - Objects, Classes, and Inheritance: C++ Number Guessing Game Part 3
 
 
 This simple C++ program is a number guessing game where the player has to guess a random number between 1 and 100. It contains at least one object, class, and inheritance

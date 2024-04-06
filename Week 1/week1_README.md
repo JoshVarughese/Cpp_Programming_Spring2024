@@ -1,4 +1,4 @@
-Assignment 1 - Flow Control: C++ Number Guessing Game
+## Assignment 1 - Flow Control: C++ Number Guessing Game
 
 C++ Number Guessing Game Code while Running: 
 

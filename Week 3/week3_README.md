@@ -1,4 +1,4 @@
-Unit 3 Assignment 1 - Classes and Objects : C++ Number Guessing Game Part 2
+## Unit 3 Assignment 1 - Classes and Objects : C++ Number Guessing Game Part 2
 
 
 This simple C++ program is a number guessing game where the player has to guess a random number between 1 and 10. It contains at least one class, one object, and one function.
