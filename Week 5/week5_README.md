@@ -14,4 +14,4 @@ The hotel management system program implemented in C++ allows users to perform t
 
 • Remove a Guest from an Empty Room and Choosing Menu Options That Haven't Been Completed: 
 
-![1st Screenshot of Hotel Management Program](Screenshots/week5_output_1.JPG)
+![3rd Screenshot of Hotel Management Program](Screenshots/week5_output_3.JPG)
